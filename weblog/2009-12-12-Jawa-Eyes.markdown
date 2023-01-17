@@ -1,0 +1,31 @@
+---
+layout: post
+title: Jawa Eyes
+tags: [frontpage, projects, electronics]
+image: '/images/posts/2009-12-12/eyes.png'
+---
+
+For Halloween this year, my boys decided they wanted to be a Jawa from Star Wars.  One of the requirements was that they have glowing eyes.  Not just any glowing eyes, but orange glowing eyes.  This is how I created some realistic Jawa eyes with just a few dollars of materials.
+
+First, to get the orange glow, I purchased some high intensity orange LEDs (part number 404-1097-ND) from Digi-Key.  They were only $0.71 each.  I also purchased a 9-volt battery clip (part number BS12I-HD-24AWG-ND) for $0.33.  To control the current going to the LEDs, I purchased a 500 ohm potentiometer (part number 3386W-501LF-ND) for $1.29.
+
+I wired everything up on a breadboard to test out the LEDs.  (Ignore the extra components on this breadboard, they were from a different project).  
+<p align="center">
+  <img src="/images/posts/2009-12-12/circuit.jpg">
+</p>
+I then purchased  a pack of cheap ping-pong balls from Amazon.com.  I took a ball, cut it in half with a razor blade, and held it over the LED.  
+<p align="center">
+  <img src="/images/posts/2009-12-12/ping_pong.jpg">
+</p>
+The light was too focused.  So I ended up trying a bunch of material, and settled on some batting (fluffy white quilting stuff that comes in sheets) from my wife’s sewing supplies.  I folded over a few layers over and tucked them inside the ping-pong ball eye, securing them with some hot glue.
+
+My wife purchased some eye masks from a craft store (in black) and had some black fabric that we could use to cover the faces of the boys.  I used some wire I had from a previous project, and wired up the LEDs according to the schematic provided by the LED Wizard web site.
+
+I cut out eye holes in the fabric that I glued to the eye mask so the boys could see, and I mounted the LED covered ping-pong balls halves just below the eye holes.
+<p align="center">
+  <img src="/images/posts/2009-12-12/costume.png">
+</p>
+When everything was done, we had a great Jawa costume.  Here is a photo taken during the daytime, and then one at night.
+<p align="center">
+  <img src="/images/posts/2009-12-12/night.png">
+</p>
